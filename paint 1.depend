@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1477214597 source:c:\users\asus\desktop\codeblocks projeler\paint 1\main.cpp
+	<allegro.h>
+
+1477591040 source:c:\users\asus\desktop\paint 1\main.cpp
+	<allegro.h>
+	<math.h>
+
+1477601473 source:c:\users\asus\desktop\paint 1ff\main.cpp
+	<allegro.h>
+	<math.h>
+
+1477679151 source:c:\users\munir\desktop\paint 1 son\main.cpp
+	<allegro.h>
+	<math.h>
+
